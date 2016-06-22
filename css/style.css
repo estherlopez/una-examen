@@ -1,0 +1,14 @@
+/**
+ * Place your custom styles here.
+ */
+ 
+ .carousel-caption a{
+	color:#337ab7;
+ }
+ .carousel-inner{
+	margin-bottom:20px;
+ }
+ .region  .block-title{
+	display:none;
+ }
+     
